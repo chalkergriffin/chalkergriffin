@@ -1,3 +1,3 @@
-me = Person
-while(me.awake()) :
+me = Person             
+while(me.awake()) :                         
   me.code
